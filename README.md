@@ -1,3 +1,3 @@
-We will put evrything here f4r all project related stuff
-hello world
+We will put evrything here for all project related stuff
+hello world!
 third addition
