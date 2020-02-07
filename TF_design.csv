@@ -1,4 +1,4 @@
-﻿Group,Replicate,Fastq_1,Fastq_2,Antibody,Control
+Group,Replicate,Fastq_1,Fastq_2,Antibody,Control
 WT_SIN3B_IP,1,FASTQ/ENCFF526SSV.fastq.gz,FASTQ/ENCFF953OIR.fastq.gz,SIN3B,WT_SIN3B_INPUT
 WT_SIN3B_IP,2,FASTQ/ENCFF044ZTQ.fastq.gz,FASTQ/ENCFF119GEQ.fastq.gz,SIN3B,WT_SIN3B_INPUT
 WT_SIN3B_INPUT,1,FASTQ/ENCFF498JMO.fastq.gz,FASTQ/ENCFF502GTS.fastq.gz,,
