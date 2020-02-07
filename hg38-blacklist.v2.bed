@@ -633,7 +633,8 @@ chrY	4343800	4345800	High Signal Region
 chrY	10246200	11041200	High Signal Region
 chrY	11072100	11335300	High Signal Region
 chrY	11486600	11757800	High Signal Region
-chrY	26637300	57227400	High Signal Regionchr10	0	45700	Low Mappability
+chrY	26637300	57227400	High Signal Region
+chr10	0	45700	Low Mappability
 chr10	38481300	38596500	High Signal Region
 chr10	38782600	38967900	High Signal Region
 chr10	39901300	41712900	High Signal Region
